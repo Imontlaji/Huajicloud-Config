@@ -1,6 +1,7 @@
 {
     "base": "https://www.huajicloud.cc/",
     "config": [
-        ""
+        "https://raw.kgithub.com/Imontlaji/Huajicloud-Config/main/config.json",
+        "https://raw.githubusercontent.com/Imontlaji/Huajicloud-Config/main/config.json"
     ]
 }
